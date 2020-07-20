@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/opc01"  android:title="Opción 01 ">
+  <menu>
+    <item android:id="@+id/opc01_1"  android:title="Opción 1.1 "></item>
+      <item android:id="@+id/opc01_2"  android:title="Opción 1.2 "></item>
+      <item android:id="@+id/opc01_3"  android:title="Opción 1.3 "></item>
+  </menu>
+    </item>
+    <item android:id="@+id/opc02" android:title="Opción 02 ">
+        <menu>
+            <item android:id="@+id/opc02_1"  android:title="Opción 1.1 "></item>
+            <item android:id="@+id/opc02_2"  android:title="Opción 1.2 "></item>
+            <item android:id="@+id/opc02_3"  android:title="Opción 1.3 "></item>
+        </menu>
+    </item>
+    <item android:id="@+id/opc03" android:title="Opción 03 ">
+        <menu>
+            <item android:id="@+id/opc03_1"  android:title="Opción 3.1 "></item>
+            <item android:id="@+id/opc03_2"  android:title="Opción 3.2 "></item>
+            <item android:id="@+id/opc03_3"  android:title="Opción 3.3 "></item>
+        </menu>
+    </item>
+
+</menu>
